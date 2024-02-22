@@ -6,4 +6,5 @@
  Using the TD-BRAIN dataset
 
  Student: Tuur Smolders
+ 
  Supervisor: Dr. Marijn van Wingerden
