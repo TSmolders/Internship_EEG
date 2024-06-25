@@ -1,0 +1,4 @@
+batch_size: 170
+dropout: 0.4923499786573979
+learning_rate: 1.3689251267410337e-05
+optimizer_name: Adam
