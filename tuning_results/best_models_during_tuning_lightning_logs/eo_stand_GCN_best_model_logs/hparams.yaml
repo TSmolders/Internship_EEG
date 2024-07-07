@@ -1,0 +1,5 @@
+batch_size: 680
+dropout: 0.6246753554179679
+edge_threshold: 0.8485539568630535
+learning_rate: 0.0003756563602205199
+optimizer_name: RMSprop

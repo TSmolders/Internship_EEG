@@ -1,0 +1,6 @@
+batch_size: 510
+dropout: 0.391805192499968
+edge_threshold: 0.8953105549911288
+fc_layers: 4
+learning_rate: 1.9297777058810687e-05
+optimizer_name: Adam

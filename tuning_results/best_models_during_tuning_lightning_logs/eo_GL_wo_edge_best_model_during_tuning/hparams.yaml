@@ -1,5 +1,0 @@
-batch_size: 170
-dropout: 0.21140181993519666
-fc_layers: 1
-learning_rate: 0.0012573498016332661
-optimizer_name: Adam
