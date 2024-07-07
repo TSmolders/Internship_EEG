@@ -14,3 +14,7 @@ Included in the investigation:
 - Feature sets derived from: eyes-open en eyes-closed resting-state EEG data, and the ratio between eyes-closed divided by the eyes-open resting-state EEG data.
 
 Analytical pipeline is shown in order of the notebooks. Notebooks containing code for background information can be found in the 'background_notebooks' subdirectory.
+
+Analytical pipeline overview:
+![image](https://github.com/TSmolders/Internship_EEG/assets/158051735/fc202056-f5ef-43fb-9d03-9ff5e9620555)
+Boxes represent objects within pipeline. General analytical approaches and direction are represented with solid arrows. Dashed arrows show specific steps within general approaches. Parts of the pipeline that were performed with the TDBRAIN code or the MNE toolbox have been encased in respectively labeled boxes. EEG = electroencephalography; TFR = time-frequency representation; FC = functional connectivity; GCN = graph convolutional network; ML = machine learning; cv = cross-validation.
