@@ -12,3 +12,5 @@ Included in the investigation:
 - Graph Neural Networks: standard Graph Convolutional Network, graphLambda without edge attributes, graphLambda with edge attributes
 - Feature sets: 1) statistical Time-Frequency representation (TFR) features (statistical measurements [mean, std, median, skew, kurt] of power over time], 2) stat TFR features + functional connectivity features)
 - Feature sets derived from: eyes-open en eyes-closed resting-state EEG data, and the ratio between eyes-closed divided by the eyes-open resting-state EEG data.
+
+Analytical pipeline is shown in order of the notebooks. Notebooks containing code for background information can be found in the 'background_notebooks' subdirectory.
