@@ -1,6 +1,6 @@
-batch_size: 680
-dropout: 0.097304787681605
-edge_threshold: 0.8526473382122077
+batch_size: 850
+dropout: 0.05066888473079148
+edge_threshold: 0.6798223930859607
 fc_layers: 3
-learning_rate: 2.6211342600831253e-05
-optimizer_name: RMSprop
+learning_rate: 0.010054058167807403
+optimizer_name: SGD

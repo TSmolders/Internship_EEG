@@ -1,5 +1,5 @@
-batch_size: 680
-dropout: 0.6246753554179679
-edge_threshold: 0.8485539568630535
-learning_rate: 0.0003756563602205199
-optimizer_name: RMSprop
+batch_size: 170
+dropout: 0.5117656632948554
+edge_threshold: 0.8469389755689003
+learning_rate: 0.05226985101691108
+optimizer_name: Adam

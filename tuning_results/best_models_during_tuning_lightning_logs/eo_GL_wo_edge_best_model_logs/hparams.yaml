@@ -1,6 +1,6 @@
-batch_size: 850
-dropout: 0.0366042747356185
-edge_threshold: 0.8383352506043568
+batch_size: 170
+dropout: 0.491883119465696
+edge_threshold: 0.8646462022716686
 fc_layers: 5
-learning_rate: 0.0010304211242693694
-optimizer_name: Adam
+learning_rate: 0.005193133600048374
+optimizer_name: SGD

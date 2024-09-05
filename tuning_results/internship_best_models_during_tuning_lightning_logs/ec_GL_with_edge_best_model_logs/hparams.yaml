@@ -1,0 +1,5 @@
+batch_size: 850
+dropout: 0.0016849860071153008
+fc_layers: 2
+learning_rate: 0.0008223299752338993
+optimizer_name: SGD

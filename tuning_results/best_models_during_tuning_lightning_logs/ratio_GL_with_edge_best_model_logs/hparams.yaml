@@ -1,5 +1,5 @@
 batch_size: 850
-dropout: 0.053215866887102156
-fc_layers: 2
-learning_rate: 1.3091216135622982e-05
-optimizer_name: SGD
+dropout: 0.2532377504886759
+fc_layers: 7
+learning_rate: 2.8351247448816293e-05
+optimizer_name: RMSprop
