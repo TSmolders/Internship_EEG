@@ -7,6 +7,8 @@
  
  Supervisor: Dr. Marijn van Wingerden
 
+See final_version_internship_report_TuurSmolders.pdf for the report of the current project.
+
 Included in the investigation:
 - standard ML models: Random Forest, Support Vector Machine, Gradient Boosting Classifier
 - Graph Neural Networks: standard Graph Convolutional Network, graphLambda without edge attributes, graphLambda with edge attributes
